@@ -95,22 +95,22 @@ This project solves these challenges by building a **fully automated, scalable, 
 - Grafana
 - Logs & Metrics Monitoring
 
----
 ## 📂 Repository Structure
 .
-├── .github/
-│ └── workflows/ # CI/CD pipeline definitions
+├── .github
+│ └── workflows # CI/CD pipeline definitions
 │
-├── manifests/ # Kubernetes deployment manifests
+├── manifests # Kubernetes deployment manifests
 │
-├── docker/ # Dockerfiles and container configurations
+├── docker # Dockerfiles and container configurations
 │
-├── argocd/ # ArgoCD GitOps application configurations
+├── argocd # ArgoCD GitOps application configurations
 │
-├── scripts/ # Automation and utility scripts
+├── scripts # Automation and utility scripts
 │
 └── README.md # Project documentation
----
+
+```
 
 ## 🚀 Getting Started
 
