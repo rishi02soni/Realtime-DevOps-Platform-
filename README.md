@@ -113,7 +113,7 @@ This project solves these challenges by building a **fully automated, scalable, 
 │
 └── README.md # Project documentation
 
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -122,7 +122,10 @@ This project solves these challenges by building a **fully automated, scalable, 
 - Kubernetes CLI (`kubectl`)
 - Argo CD
 - GitHub Account
+```
 
+
+```
 ### Run Locally
 ```bash
 git clone https://github.com/your-username/real-time-devops-platform.git
@@ -142,6 +145,8 @@ cd real-time-devops-platform
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
 
+
+```
 ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
