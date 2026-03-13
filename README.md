@@ -95,6 +95,9 @@ This project solves these challenges by building a **fully automated, scalable, 
 - Grafana
 - Logs & Metrics Monitoring
 
+
+```
+
 ## 📂 Repository Structure
 .
 ├── .github
@@ -110,7 +113,6 @@ This project solves these challenges by building a **fully automated, scalable, 
 │
 └── README.md # Project documentation
 
-```
 
 ## 🚀 Getting Started
 
