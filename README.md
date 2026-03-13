@@ -99,12 +99,20 @@ This project solves these challenges by building a **fully automated, scalable, 
 
 ## 📂 Repository Structure
 
-├── .github/workflows/ # CI pipelines
-├── manifests/ # Kubernetes YAML files
-├── docker/ # Docker configurations
-├── argocd/ # GitOps configs
-├── scripts/ # Automation scripts
-└── README.md
+project-root/
+│
+├── .github/
+│   └── workflows/          # CI/CD pipeline definitions
+│
+├── manifests/              # Kubernetes deployment manifests
+│
+├── docker/                 # Dockerfiles and container configs
+│
+├── argocd/                 # ArgoCD GitOps application configs
+│
+├── scripts/                # Automation & utility scripts
+│
+└── README.md               # Project documentation
 
 
 ---
