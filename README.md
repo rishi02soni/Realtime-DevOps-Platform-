@@ -96,25 +96,20 @@ This project solves these challenges by building a **fully automated, scalable, 
 - Logs & Metrics Monitoring
 
 ---
-
 ## 📂 Repository Structure
-
-project-root/
-│
+.
 ├── .github/
-│   └── workflows/          # CI/CD pipeline definitions
+│ └── workflows/ # CI/CD pipeline definitions
 │
-├── manifests/              # Kubernetes deployment manifests
+├── manifests/ # Kubernetes deployment manifests
 │
-├── docker/                 # Dockerfiles and container configs
+├── docker/ # Dockerfiles and container configurations
 │
-├── argocd/                 # ArgoCD GitOps application configs
+├── argocd/ # ArgoCD GitOps application configurations
 │
-├── scripts/                # Automation & utility scripts
+├── scripts/ # Automation and utility scripts
 │
-└── README.md               # Project documentation
-
-
+└── README.md # Project documentation
 ---
 
 ## 🚀 Getting Started
