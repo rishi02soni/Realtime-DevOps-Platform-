@@ -36,8 +36,7 @@ This project solves these challenges by building a **fully automated, scalable, 
 - Microservices deployed on **AKS**
 - CI/CD automated using **Argo CD** and **GitOps**
 - Centralized logging & monitoring
-- Secure and scalable cloud infrastructure
-
+- Secure and scalable cloud infrastructure.
 ---
 
 ## 🔁 CI/CD Workflow (GitOps)
