@@ -36,18 +36,36 @@ This project implements a **distributed microservices architecture** with **GitO
 
 > Docker
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/69532394-42f4-4d61-9c91-90087621a852" />
+```
+Docker: Packages applications into containers for consistent and portable execution across environments.
+```
+```
+Docker Hub: Stores and distributes container images.
+```
 -----------------------------
 
 > Kubernetes
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/71e9f706-7115-45d3-9db3-8fe26dc64f82" />
+```
+Kubernetes: Manages, scales, and automates deployment of containerized applications across clusters.
+```
 -----------------------------
 
 >Minikube
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/954741e6-4708-4a2a-b932-698970487102" />
+```
+Minikube: Runs a local Kubernetes cluster for development and testing.
+```
 -----------------------------
 
->GitOps + Argo CD
+> GitOps + Argo CD
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/b45a2d7e-6e92-4233-be05-92cca57a3bd3" />
+```
+GitOps: Uses Git as the single source of truth to automatically manage and deploy infrastructure and applications, ensuring consistency and version-controlled operations.
+```
+```
+Argo CD: Automates deployments by syncing Kubernetes state with Git repositories.
+```
 
 
 
