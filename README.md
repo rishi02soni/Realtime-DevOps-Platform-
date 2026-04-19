@@ -44,6 +44,11 @@ This project implements a **distributed microservices architecture** with **GitO
 
 >Minikube
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/954741e6-4708-4a2a-b932-698970487102" />
+-----------------------------
+
+>GitOps + Argo CD
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/b45a2d7e-6e92-4233-be05-92cca57a3bd3" />
+
 
 
 
