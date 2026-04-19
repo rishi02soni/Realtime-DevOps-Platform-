@@ -136,7 +136,7 @@ Automates deployments by syncing Kubernetes state with Git repositories.
 * Kubernetes (Minikube)
 * Argo CD
 * Docker Hub
-* 
+  
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/5252d242-5376-47d9-a514-0b97887c56e1" />
 
 ---
