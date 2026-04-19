@@ -30,7 +30,7 @@ This project implements a **distributed microservices architecture** with **GitO
 
 ## 🧠 System Architecture
 
-![Architecture Diagram](https://miro.medium.com/v2/resize\:fit:1400/1*Y9h3G3tXkG2J6F0W1nF2dg.png)
+![Architecture Diagram]([https://miro.medium.com/v2/resize\:fit:1400/1*Y9h3G3tXkG2J6F0W1nF2dg.png](https://images.openai.com/static-rsc-4/BnonBPtQ48ZmelXo0Y_Ekw1fDYXIPGk6zhm1XTi2BKRtGNqrc0DdItXxd4H4lj4nsBgXj2o6KgO7fN_PmpwF-mDx-QM9feiTvwIQA_i_F900LdBPhOWKJcRfmDJctH8KF3r27yeuTUka73xXaI9ktnhGwf-THAHteMb7VaPrQSk?purpose=inline))
 
 ### 🔄 End-to-End Workflow
 
