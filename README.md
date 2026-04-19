@@ -4,31 +4,31 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Traditional monolithic systems suffer from:
 
-* ❌ Poor scalability and horizontal scaling limitations
-* ❌ Tight coupling leading to cascading failures
-* ❌ Deployment bottlenecks and rollback complexity
-* ❌ Lack of environment consistency across development and production
-* ❌ Inefficient CI/CD pipelines causing increased failure rates
+*  Poor scalability and horizontal scaling limitations
+*  Tight coupling leading to cascading failures
+*  Deployment bottlenecks and rollback complexity
+*  Lack of environment consistency across development and production
+*  Inefficient CI/CD pipelines causing increased failure rates
 
 ---
 
-## 💡 Solution
+##  Solution✅
 
 This project implements a **distributed microservices architecture** with **GitOps-driven continuous delivery**, enabling:
 
-* ✅ Loose coupling via service decomposition
-* ✅ Independent deployment and scaling of services
-* ✅ Declarative infrastructure and version-controlled deployments
-* ✅ Automated synchronization between Git state and cluster state
-* ✅ High system resilience and fault isolation
+*  Loose coupling via service decomposition
+*  Independent deployment and scaling of services
+*  Declarative infrastructure and version-controlled deployments
+*  Automated synchronization between Git state and cluster state
+*  High system resilience and fault isolation
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 > Microservices
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0b331d63-f7e1-4a16-b828-026e3f01798b" />
@@ -111,16 +111,16 @@ This project implements a **distributed microservices architecture** with **GitO
 
 ## 🏗️ Design Principles
 
-* 🧱 Microservices Architecture
-* 🔄 Declarative Infrastructure (IaC mindset)
-* 📦 Container-first deployment strategy
-* ⚡ Horizontal scalability and load distribution
-* 🔁 Idempotent deployments via GitOps
-* 🛡️ Fault isolation and service resilience
+*  Microservices Architecture
+*  Declarative Infrastructure (IaC mindset)
+*  Container-first deployment strategy
+*  Horizontal scalability and load distribution
+*  Idempotent deployments via GitOps
+*  Fault isolation and service resilience
 
 ---
 
-## 🚀 Key Engineering Highlights
+##  Key Engineering Highlights
 
 * ⚡ Implemented **container orchestration** for efficient resource utilization
 * 🔁 Built **GitOps-based CI/CD pipelines** ensuring deployment consistency
@@ -130,7 +130,7 @@ This project implements a **distributed microservices architecture** with **GitO
 
 ---
 
-## 📊 Performance & Impact (Target Metrics)
+##  Performance & Impact (Target Metrics)
 
 * 🚀 99%+ service uptime using Kubernetes self-healing
 * 📉 Reduced deployment failures (~30–40%)
@@ -139,15 +139,15 @@ This project implements a **distributed microservices architecture** with **GitO
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-* ☁️ Deploy on Azure Kubernetes Service (AKS)
-* 📊 Observability stack (Prometheus, Grafana, ELK)
-* 🔐 Authentication & Authorization (JWT, OAuth 2.0)
-* 🚪 API Gateway (NGINX / Kong)
-* 📦 Helm charts for package management
-* 🧪 CI pipelines with GitHub Actions
-* 🔍 Distributed tracing (Jaeger)
+*  Deploy on Azure Kubernetes Service (AKS)
+*  Observability stack (Prometheus, Grafana, ELK)
+*  Authentication & Authorization (JWT, OAuth 2.0)
+*  API Gateway (NGINX / Kong)
+*  Helm charts for package management
+*  CI pipelines with GitHub Actions
+*  Distributed tracing (Jaeger)
 
 ---
 
@@ -180,6 +180,6 @@ Open to contributions, improvements, and feature enhancements.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a ⭐
