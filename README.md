@@ -31,7 +31,7 @@ This project implements a **distributed microservices architecture** with **GitO
 ## 🧠 System Architecture
 
 > Microservices
-<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/0b331d63-f7e1-4a16-b828-026e3f01798b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0b331d63-f7e1-4a16-b828-026e3f01798b" />
 
 
 
