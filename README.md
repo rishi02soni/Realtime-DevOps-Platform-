@@ -80,7 +80,7 @@ Uses Git as the single source of truth to automatically manage and deploy infras
 ## Argo CD: 
 Automates deployments by syncing Kubernetes state with Git repositories.
 
-
+---
 
 
 
