@@ -29,11 +29,11 @@ This project implements a **distributed microservices architecture** with **GitO
 ---
 
 ## 🧠 System Architecture
-
+```
 > Microservices
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0b331d63-f7e1-4a16-b828-026e3f01798b" />
 
-
+```
 
 > Docker
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/69532394-42f4-4d61-9c91-90087621a852" />
