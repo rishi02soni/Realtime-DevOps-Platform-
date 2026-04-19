@@ -32,6 +32,13 @@ This project implements a **distributed microservices architecture** with **GitO
 
 > Microservices
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0b331d63-f7e1-4a16-b828-026e3f01798b" />
+
+## Microservices:
+It is an architectural style where an application is divided into small, independent services, each responsible for a specific function and able to be developed, deployed, and scaled separately.
+
+## Microservices architecture: 
+Breaks an application into small, independent services that can be developed, deployed, and scaled separately, improving flexibility and fault isolation.
+
 ----------------------------
 
 > Docker
@@ -180,7 +187,7 @@ Automates deployments by syncing Kubernetes state with Git repositories.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/rishi02soni/Realtime-DevOps-Platform-.git
 
 # Install dependencies
 cd user-service
