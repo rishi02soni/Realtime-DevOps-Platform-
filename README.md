@@ -39,7 +39,7 @@ This project implements a **distributed microservices architecture** with **GitO
 -----------------------------
 
 > Kubernetes
-<img width="500" height="240" alt="image" src="https://github.com/user-attachments/assets/71e9f706-7115-45d3-9db3-8fe26dc64f82" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/71e9f706-7115-45d3-9db3-8fe26dc64f82" />
 
 
 
