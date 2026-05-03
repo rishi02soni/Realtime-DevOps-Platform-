@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  user-service:
+    build: ./user-service
+    ports:
+      - "3000:3000"
+
+  product-service:
+    build: ./product-service
+    ports:
+      - "3001:3001"
