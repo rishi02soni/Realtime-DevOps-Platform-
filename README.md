@@ -1,4 +1,4 @@
-# 🚀 Scalable Microservices GitOps Platform
+#  Scalable Microservices GitOps Platform
 
 > Designed and engineered a cloud-native, fault-tolerant microservices platform leveraging container orchestration and GitOps principles to enable high availability, scalability, and automated deployments.
 
@@ -97,7 +97,7 @@ Automates deployments by syncing Kubernetes state with Git repositories.
 
 ---
 
-## 🧩 Core Components
+##  Core Components
 
 ### 🔹 Microservices Layer
 
@@ -141,34 +141,34 @@ Automates deployments by syncing Kubernetes state with Git repositories.
 
 ---
 
-## 🏗️ Design Principles
-
+##  Design Principles
+```
 *  Microservices Architecture
 *  Declarative Infrastructure (IaC mindset)
 *  Container-first deployment strategy
 *  Horizontal scalability and load distribution
 *  Idempotent deployments via GitOps
 *  Fault isolation and service resilience
-
+```
 ---
 
 ##  Key Engineering Highlights
-
-* ⚡ Implemented **container orchestration** for efficient resource utilization
-* 🔁 Built **GitOps-based CI/CD pipelines** ensuring deployment consistency
-* 📉 Reduced deployment failure rate through automated synchronization
-* 📈 Improved release velocity with continuous delivery workflows
-* 🧩 Designed services for **stateless scalability**
-
+```
+*  Implemented **container orchestration** for efficient resource utilization
+*  Built **GitOps-based CI/CD pipelines** ensuring deployment consistency
+*  Reduced deployment failure rate through automated synchronization
+*  Improved release velocity with continuous delivery workflows
+*  Designed services for **stateless scalability**
+```
 ---
 
 ##  Performance & Impact (Target Metrics)
-
-* 🚀 99%+ service uptime using Kubernetes self-healing
-* 📉 Reduced deployment failures (~30–40%)
-* ⚡ Faster deployment cycles (~40% improvement)
-* 🔄 Zero-downtime deployment capability (rolling updates)
-
+```
+*  99%+ service uptime using Kubernetes self-healing
+*  Reduced deployment failures (~30–40%)
+*  Faster deployment cycles (~40% improvement)
+*  Zero-downtime deployment capability (rolling updates)
+```
 ---
 
 ##  Future Enhancements
@@ -183,7 +183,7 @@ Automates deployments by syncing Kubernetes state with Git repositories.
 
 ---
 
-## 🛠️ Local Development Setup
+##  Local Development Setup
 
 ```bash
 # Clone repository
