@@ -5,7 +5,7 @@
 ---  
  
 ##  Problem Statement    
- 
+  
 Traditional monolithic systems suffer from:
 
 *  Poor scalability and horizontal scaling limitations
