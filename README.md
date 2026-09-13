@@ -1,7 +1,7 @@
 #  Scalable Microservices GitOps Platform
 
 > Designed and engineered a cloud-native, fault-tolerant microservices platform leveraging container orchestration and GitOps principles to enable high availability, scalability, and automated deployments.
-
+ 
 --- 
  
 ##  Problem Statement  
