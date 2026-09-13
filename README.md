@@ -4,7 +4,7 @@
  
 ---  
  
-##  Problem Statement  
+##  Problem Statement   
  
 Traditional monolithic systems suffer from:
 
